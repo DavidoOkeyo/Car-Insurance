@@ -276,7 +276,7 @@ header hr {
 .second-right-content ul {
     list-style-type: decimal;
     margin-left: 20px;
-    margin-top: 30px;
+    padding-top: 30px;
 }
 
 .second-right-content ul li {
